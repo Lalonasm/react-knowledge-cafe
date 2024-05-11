@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "cover": "https://i.ibb.co/h9dc3rz/flat-lay-workstation-with-copy-space-laptop.jpg",
       "title": "The Secret of Crimson Manor",
       "author": "Eleanor Blackwood",
@@ -10,7 +10,7 @@
       "reading_time": 60
     },
     {
-      "id": "2",
+      "id": 2,
       "cover": "https://i.ibb.co/z5zXvLt/high-angle-desktop-with-laptop-copy-space.jpg",
       "title": "Lost in the Echoes of Time",
       "author": "Jonathan Rivers",
@@ -20,7 +20,7 @@
       "reading_time": 75
     },
     {
-      "id": "3",
+      "id": 3,
       "cover": "https://i.ibb.co/bbk29VK/photo-1432821596592-e2c18b78144f.jpg",
       "title": "Echoes of the Forgotten Kingdom",
       "author": "Isabella Nightingale",
@@ -30,7 +30,7 @@
       "reading_time": 50
     },
     {
-      "id": "4",
+      "id": 4,
       "cover": "https://i.ibb.co/92mX6Jq/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
       "title": "Whispers in the Moonlight",
       "author": "Lucas Darkwood",
@@ -40,7 +40,7 @@
       "reading_time": 45
     },
     {
-      "id": "5",
+      "id": 5,
       "cover": "https://i.ibb.co/NZY7swN/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
       "title": "Chronicles of the Starlight Realm",
       "author": "Aurora Silverwing",
